@@ -39,7 +39,8 @@ body{
   opacity: 0.8;
 }
 .loginCredentials input{
-  font-size: 12px;
+  font-size: small;
+  color: #172337;
   font-weight: 500;
   border-radius: 2px;
   border-style: solid;
