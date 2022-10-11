@@ -40,9 +40,10 @@ body{
 }
 .loginCredentials input{
   font-size: small;
-  font-weight: bold;
+  font-weight: 500;
   border-radius: 2px;
   border-style: solid;
+  border-width:1px;
   border-color: gray;
   transition: padding-left 0.15s, padding-right 0.15s;;
 }
