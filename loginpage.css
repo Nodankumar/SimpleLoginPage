@@ -71,3 +71,10 @@ body{
   padding-right: 10px;
   font-weight: bold;
 }
+.hint{
+  position:absolute;
+  bottom:4px;
+  left:4px;
+  color:white;
+  font-size:15px;
+}
