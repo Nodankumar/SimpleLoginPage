@@ -7,7 +7,7 @@ function validate(){
   }
   else{
     location.href='https://grogu-dev.github.io/SimpleLoginPage/);
-    alert('Enter wrong credentials..')
+    alert('Entered wrong credentials..')
   }
 
 }
