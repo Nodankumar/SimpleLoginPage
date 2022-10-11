@@ -3,7 +3,7 @@ function validate(){
   var password=document.getElementById('password').value;
 
   if(username=='Grogu_dev@gmail.com' && password=='Grogu_dev'){
-    location.href='../HomePage.html';
+    location.href='https://grogu-dev.github.io/Flipkart-Clone/';
   }
   else{
     location.href='loginPage.html';
