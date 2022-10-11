@@ -6,7 +6,7 @@ function validate(){
     location.href='https://grogu-dev.github.io/Flipkart-Clone/';
   }
   else{
-    location.href='loginPage.html';
+    location.href='https://grogu-dev.github.io/SimpleLoginPage/';
     alert('Enter wrong credentials..')
   }
 
