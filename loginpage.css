@@ -73,10 +73,10 @@ body{
 }
 .hint{
   position:absolute;
-  bottom:6px;
+  bottom:8px;
   left:4px;
   color:white;
   font-size:12px;
   opacity:0.9;
-  font-weight:400;
+  font-weight:300;
 }
